@@ -7,4 +7,5 @@ Run analysis
 Make table
 Make header bold
 
-Make small figure, thick line
+Make small figure, thick red line
+
